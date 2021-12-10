@@ -1,4 +1,4 @@
-name: Build OpenWrt_ipv4
+name: Build OpenWrt_43ipv4
 
 on:
   repository_dispatch:
