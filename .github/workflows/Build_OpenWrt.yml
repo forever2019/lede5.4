@@ -1,4 +1,5 @@
-name: Build OpenWrt_ipv6
+
+name: Build_OpenWrt
 
 on:
   repository_dispatch:
@@ -20,7 +21,7 @@ env:
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
   UPLOAD_WETRANSFER: false
-  UPLOAD_RELEASE: true
+  UPLOAD_RELEASE: false
   TZ: Asia/Shanghai
 
 jobs:
