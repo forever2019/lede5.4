@@ -1,4 +1,4 @@
-name: Build_immoWrt_ipv4
+name: Immo_OpenWrt_ipv4
 
 on:
   repository_dispatch:
